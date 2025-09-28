@@ -5,11 +5,14 @@ __pycache__/
 *.pyd
 *.pyc
 Book/
+Results/
 # Environment variables
 .env
 
 # VSCode
 .vscode/
+
+*.docx
 
 # OS files
 .DS_Store
